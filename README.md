@@ -1,4 +1,6 @@
-# music-streaming-data-analysis
+# Yandex Music: Music Streaming Data Analysis
+
+## About
 
 A Python-based analysis of music streaming logs that compares user habits and genre preferences across two major metropolitan regions. Focuses on testing three specific hypotheses regarding listener behavior on different days of the week and the influence of regional location on music taste.
 
